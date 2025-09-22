@@ -12,3 +12,5 @@ for i in range(rows):
 print("\nPattern printing completed successfully!")
 
 print("Making a second commit")
+
+print("Making a changes from github website for the first time")
